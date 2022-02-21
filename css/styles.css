@@ -18,6 +18,15 @@ h3{
    font-size: 200%;
 }
 
+hr{
+   width: 5%;
+   border-style: none;
+   border-top-style: dotted;
+   border-color: #00B4D8;
+   border-width: 5px;
+}
+
+
 p{
    font-size: 170%;
    margin-top: 0px;
